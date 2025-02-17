@@ -1,3 +1,5 @@
+#### Aula do dia 17/02
+
 # Big Data - Guia Completo
 
 ## Sumário
